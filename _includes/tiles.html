@@ -1,3 +1,5 @@
+{% assign testone = site.data.testone %}
+<h1>{{ testone.title }}</h1>
 <section id="one" class="tiles">
 	{% for post in site.posts limit:site.tiles-count %}
 	{% if site.tiles-source == 'posts' %}
