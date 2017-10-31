@@ -1,6 +1,7 @@
 ---
 title: Наши тренеры
 date: 2017-10-31 20:12:00 Z
+position: 1
 Тренеры:
 - name: Кислов Никита
   description: |-
